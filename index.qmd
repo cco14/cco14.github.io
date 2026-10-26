@@ -1,0 +1,53 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/cosborn.jpeg"
+  links:
+    - icon: link
+      text: PRCHN
+      href: https://prchn.org/
+    - icon: link
+      text: ORCID
+      href: https://orcid.org/0000-0001-6162-7315
+    - icon: envelope
+      text: Email
+      href: "mailto:catherine.osborn@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome
+
+I'm Catherine C. Osborn, a Bioinformatics Research Associate with Special Technical Skills at the [Prevention Research Center for Healthy Neighborhoods](https://prchn.org/) (PRCHN) at Case Western Reserve University. Most of my work involves building the data systems that community health research depends on, from REDCap databases for clinical trials to automated reporting for quality improvement projects. I'm also a PhD student in Clinical Translations Science at CWRU, where my focus is on how interventions that work in research settings get carried into everyday clinical and community practice.
+
+# Experience
+
+I've worked at the PRCHN since 2016, developing data collection instruments, protocols, and databases for studies on prostate cancer screening, rural environmental health, and community health interventions. I've led large-scale surveys on youth health behaviors in Cuyahoga and Summit Counties, and as a contractor for the Ohio Youth Risk Behavior Survey. I also built the data collection platform for the [Cleveland Health Survey](https://prchn.org/clehealthsurvey/) and helped develop new methods for tracking emerging tobacco products. My analytic work covers chronic health conditions, substance use, tobacco use disparities, and cancer screening, and I'm an author on [ten peer-reviewed publications](https://orcid.org/0000-0001-6162-7315).
+
+# Current Projects
+
+[**Nourishing Tomorrow**](https://case.edu/medicine/about/newsroom/our-latest-news/food-medicine-program-awarded-38m-federal-grant-support-health-and-nutrition-low-income-high-risk-pregnant-women)**:** a food as medicine trial providing medically tailored groceries to food-insecure pregnant women at MetroHealth and University Hospitals. I designed the study's data systems across both hospital sites and work with community health workers on enrollment and oversee data collection by study staff and community partners.
+
+[**Healthy Futures Research Study**](https://case.edu/cancer/connect-community/healthy-futures-research)**:** a project looking at the potential health impact of the chemical exposure following the 2023 train derailment in East Palestine, Ohio. I've built the study's data infrastructure and overseen data collection protocols related to health surveys, behavioral assessments, and at-home biospecimen collection.
+
+**Pike Moore Lab**: For Dr. Stephanie Pike Moore, I'm developing the platform for an ecological momentary assessment (EMA) study and network maps of companies behind emerging hemp-derived cannabinoids and other unregulated psychoactive products.
+
+# Education
+
+- **PhD,** Clinical Translational Science, in progress
+
+- **MS,** Data Science, 2025 MA,
+
+- **MA,** Medical Anthropology, 2015
+
+- **BS,** Biology, 2012
+
+- **BA,** Anthropology, 2012
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
