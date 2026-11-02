@@ -1,28 +1,40 @@
 ---
-title: Projects
+title: Selected Past Projects
 ---
 
-## The Languages of Middle-earth
+## Youth Risk Behavior Survey Interactive
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
-
-<a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
-
-Over the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion.
-
-----
-
-## The History of the War of the Ring
-
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
-
-<a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
-
-I am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth's history and provide valuable insights into the motivations and actions of the various players involved.
-
-
+::: column-page
 ```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
+<iframe src="https://public.tableau.com/views/YRBS2021Infographic/Dashboard1?:embed=y&:showVizHome=no&:toolbar=yes"
+        width="100%" height="850" style="border:none;"></iframe>
 ```
+:::
+
+I began working on the Youth Risk Behavior Survey in 2018 as a research coordinator at the [Prevention Research Center for Healthy Neighborhoods](https://prchn.org/ccyrbs/), overseeing administrations for Summit and Cuyahoga Counties, as well as the CDC-DASH Cleveland Sample. In 2019, I lead the process of our site gaining the first round of CDC/Westat approval for web-based administration of the survey using Qualtrics and regularly met with fellow grantees providing technological assistance on online administration designs during the 2021 COVID-era cycle. As part of the PRCHN YRBS team, I developed infographics and data briefs to disseminate survey findings. I streamlined processes to automate school- and county-level report building to improve data integrity and efficiency. I also lead the web-based administration of the Ohio Department of Health's 2021 and 2023 Youth Risk Behavior Survey/Youth Tobacco Survey. I remained a part of that team through 2024.
+
+### Article:
+
+Trapl E, Pike Moore S, **Osborn C**, Gupta N, Love TE, Kinzy TG, Kinsella A, Frank S. Evaluation of Restrictions on Tobacco Sales to Youth Younger Than 21 Years in Cleveland, Ohio, Area. *JAMA Netw Open.* 2022;5(7):e2222987. doi:[10.1001/jamanetworkopen.2022.22987](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794152)
+
+------------------------------------------------------------------------
+
+## Online Experimental Tobacco Marketplace
+
+<img src="ETM.png" style="height: 100%; width: 100%; object-fit: contain"/>
+
+As part of the [Cigarillo Flavor and Abuse Liability, Attention, and Substitution in Youth](https://prchn.org/cflash/) (C-FLASH) project (2019-2023), I built the online survey and experimental tobacco marketplace in Qualtrics which allowed participants to hypothetically purchase tobacco products based on their flavor preferences and budget, while varying the prices of individual items. Due to the online nature of study recruitment, this project required complex screening procedures to reduce fraud and maintain data quality.
+
+### Articles:
+
+**Osborn CC**, Suratkal JP, Pike Moore SN, Koopman Gonzalez S, Sterling KL, Quisenberry AJ, Klein EG, Trapl ES. Dissonance in Young Adult Cigarillo Users’ Categorization of Concept Flavored and Unflavored Products. *International Journal of Environmental Research and Public Health*. 2022; 19(12):7219. doi:[10.3390/ijerph19127219](https://www.mdpi.com/1660-4601/19/12/7219)
+
+Abeyesundere N, **Osborn CC**, Pike More S, Suratkal JP, Kaur M, Otieno C, Quisenberry AJ, Klein EG, Trapl ES. Substitution of flavored cigarillos with menthol cigarettes among young adults in the US. *Drug and Alcohol Dependence*. 2022 Oct 1; 239:109603. doi:[10.1016/j.drugalcdep.2022.109603](https://www.sciencedirect.com/science/article/pii/S0376871622003404?via%3Dihub)
+
+Pike Moore S, **Osborn C**, Koopman Gonzalez S, Quisenberry A, Klein EG, Kaur M, Suratkal J, Trapl E. Flavour loyalty may predict cessation or substitution following a cigarillo flavour ban among young adults in the USA. *Tobacco Control* 2022;31:s206-s213. doi:[10.1136/tc-2022-057487](https://tobaccocontrol.bmj.com/content/31/Suppl_3/s206)
+
+**Osborn C**, Pike Moore S, Koopman Gonzalez S, Quisenberry A, Klein E, Trapl E, Come for the Tobacco, Stay for the Flavor: Flavored Cigarillo–Use Trajectories Among Young Adult Sexual Gender Minority Women, *Nicotine & Tobacco Research*. 2024; 26(2): S112–S120, doi:[10.1093/ntr/ntad168](https://doi.org/10.1093/ntr/ntad168)
+
+Pike Moore S, **Osborn C**, Suratkal J, Vasu P, Koopman Gonzalez S, Trapl E. What is (Un)Flavored? A scoping review of the conceptualization of flavored cigarillos. *Nicotine & Tobacco Research*. 2024; 26(9): 1120-1131. doi:[10.1093/ntr/ntae039](https://academic.oup.com/ntr/article/26/9/1120/7613836)
+
+Quisenberry AJ, **Osborn CC**, Pike Moore S, Schneller L, John L, Klein EG, Trapl E. Electronic Nicotine Delivery Devices Function as a Complement for Cigarillos in Sexual and Gender Minority Young Adult Women. *Nicotine & Tobacco Research*. 2025; 27(3): 494-501. doi:[10.1093/ntr/ntae197](https://academic.oup.com/ntr/article/27/3/494/7736066)
